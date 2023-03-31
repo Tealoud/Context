@@ -1,0 +1,9 @@
+Customer Name: Samantha Lee
+Time stamp: March 31, 2023 5:15pm
+Customer Request: Hi, I brought my car in for an oil change and tire rotation last week and I noticed that my tire pressure is still low. I'm very unhappy with the service I received and I want this issue to be resolved immediately.
+Support: I'm sorry to hear that, Samantha. Can you provide me with your car's make and model, as well as the date of your service appointment?
+Customer Request: Yes, my car is a 2017 Nissan Altima and my service appointment was on March 24, 2023.
+Support: Thank you for the information. We apologize for any inconvenience caused. We will schedule an appointment for you to have your tire pressure checked and adjusted free of charge. Is there a particular day and time that works best for you?
+Customer Request: I'm available on Wednesday morning around 10am.
+Support: Great, we will schedule your appointment for Wednesday, April 5th at 10am. Is there anything else I can assist you with?
+Customer Request: No, that's all. Thank you for your help.

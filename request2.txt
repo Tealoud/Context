@@ -1,0 +1,16 @@
+Customer Name: Emily Brown
+Time stamp: March 31, 2023 2:45pm
+
+Customer Request: Hi, I just picked up my car after getting it serviced at your location and I noticed that my windshield wipers are not working properly. This is unacceptable and I'm very unhappy with the service I received.
+
+Support: I'm sorry to hear that, Emily. Can you provide me with your car's make and model, as well as the date of your service appointment?
+
+Customer Request: Yes, my car is a 2018 Honda Civic and my service appointment was on March 30, 2023.
+
+Support: Thank you for the information. We apologize for any inconvenience caused. We will schedule an appointment for you to have your windshield wipers fixed free of charge. Is there a particular day and time that works best for you?
+
+Customer Request: I'm available on Monday afternoon around 2pm.
+
+Support: Great, we will schedule your appointment for Monday, April 3rd at 2pm. Is there anything else I can assist you with?
+
+Customer Request: No, that's all. Thank you for your help.

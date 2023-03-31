@@ -1,0 +1,16 @@
+Customer Name: John Smith
+Time stamp: March 31, 2023 10:30am
+
+Customer Request: Hi, I recently got my car serviced at your location and I noticed that my brakes are still making a strange noise. I'm really unhappy with the service I received and I want this issue to be resolved as soon as possible.
+
+Support: I'm sorry to hear that, John. Can you provide me with your car's make and model, as well as the date of your service appointment?
+
+Customer Request: Yes, my car is a 2016 Toyota Corolla and my service appointment was on March 28, 2023.
+
+Support: Thank you for the information. We apologize for any inconvenience caused. We will schedule an appointment for you to have your brakes inspected and repaired free of charge. Is there a particular day and time that works best for you?
+
+Customer Request: I'm available on Friday afternoon around 3pm.
+
+Support: Great, we will schedule your appointment for Friday, April 7th at 3pm. Is there anything else I can assist you with?
+
+Customer Request: No, that's all. Thank you for your help.
